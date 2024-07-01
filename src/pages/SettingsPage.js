@@ -43,7 +43,6 @@ const SettingPage = () => {
             />
           </ListInput>
         </List>
-        <Pikcer></Pikcer>
       </Page>
     </>
   );
